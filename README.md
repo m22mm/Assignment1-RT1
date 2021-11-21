@@ -15,6 +15,8 @@ $ python run.py RT-Assignment1.py
 -----------------
 ![Code Flowchart](https://user-images.githubusercontent.com/79665691/142773717-b0da705d-6b5b-4830-9185-9283c24ff517.jpg)
 
+The above flowchart describes the logic based on which the robot motion algorithm is implemented to achieve the aforementioned tasks.
+
 ## Robot API
 ------------
 
