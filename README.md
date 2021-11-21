@@ -13,10 +13,10 @@ $ python run.py RT-Assignment1.py
 ```
 ## Code Flowchart
 -----------------
-![Code Flowchart](https://user-images.githubusercontent.com/79665691/142773717-b0da705d-6b5b-4830-9185-9283c24ff517.jpg)
+![Code Flowchart](https://user-images.githubusercontent.com/79665691/142777103-0f692cef-b265-48c6-8288-090400cc5257.jpg)
 
-The above flowchart describes the logic based on which the robot motion algorithm is implemented to achieve the aforementioned tasks.
-
+The above flowchart describes the logic based on which the robot motion algorithm is implemented to achieve the aforementioned tasks.\
+First, the robot will drive forward while checking for Silver and Golden tokens while it will obtain their distances and orientation angles upon detecting them. Afterwards, the robot will check the golden distance first, then if it is greater than the obstacle distance threshold specified in the code, it will check for a Silver token within a specified distance and angle range, which if found, it will check for orientation adjustments until meeting the threshold requirements, and when it is too close to it, it will grab it and move it behind it. Otherwise, if the silver token isn't detected within the specified distance and angle range, 
 ## Robot API
 ------------
 
