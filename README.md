@@ -6,8 +6,7 @@ The  main purpose of this project is to constantly drive the [Student Robotics](
 ---------------------------
 The simulator requires a Python 2.7 installation, the [pygame library](https://www.pygame.org/news), [PyPyBox2D library](https://pypi.org/project/pypybox2d/2.1-r331/), and [PyYAML Library](https://pypi.org/project/PyYAML/).
 
-Once the dependencies are installed, one or more scripts can be run in the simulator.\
-In order to do so, use run.py followed by the file names, as the program can be run by the following command line:
+Once the dependencies are installed, the program can be run by the following command line:
 ```
 $ python2 run.py RT-Assignment1.py
 ```
