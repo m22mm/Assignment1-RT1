@@ -13,6 +13,7 @@ $ python run.py RT-Assignment1.py
 ```
 ## Code Flowchart
 -----------------
+![Code Flowchart](https://user-images.githubusercontent.com/79665691/142773717-b0da705d-6b5b-4830-9185-9283c24ff517.jpg)
 
 ## Robot API
 ------------
